@@ -133,19 +133,19 @@ That's it! The web interface opens automatically.
 
 ```
 
-├── app.py              # Web interface
+├── app.py               # Web interface
 
-├── controller.py       # Main logic
+├── controller.py        # Main logic
 
-├── rag.py             # Document search
+├── rag.py               # Document search
 
-├── evaluator.py       # Quality checking
+├── evaluator.py         # Quality checking
 
-├── tools.py           # Notifications
+├── tools.py             # Notifications
 
-├── knowledge\_base/    # Your documents
+├── knowledge\_base/     # Your documents
 
-└── .env               # API keys
+└── .env                 # API keys
 
 ```
 
