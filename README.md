@@ -28,7 +28,7 @@ Think of it as your personal AI assistant that:
 5\. \*\*Small talk?\*\* → Quick friendly response
 
 
-\## Architecture
+## Architecture
 
 
 ```
@@ -61,7 +61,7 @@ User Question → Search Your Docs → ChatGPT Response → Gemini Quality Check
 
 
 
-\## Quick Setup
+## Quick Setup
 
 
 
@@ -111,7 +111,7 @@ That's it! The web interface opens automatically.
 
 
 
-\## Key Features
+## Key Features
 
 
 
@@ -127,7 +127,7 @@ That's it! The web interface opens automatically.
 
 
 
-\## File Structure
+## File Structure
 
 
 
@@ -151,7 +151,7 @@ That's it! The web interface opens automatically.
 
 
 
-\## Example Usage
+## Example Usage
 
 
 
