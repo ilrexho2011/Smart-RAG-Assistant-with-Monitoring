@@ -14,7 +14,7 @@ Think of it as your personal AI assistant that:
 \- \*\*Remembers conversations\*\* - Maintains chat history and user details
 
 
-\## How it works
+## How it works
 
 
 1\. User asks a question
