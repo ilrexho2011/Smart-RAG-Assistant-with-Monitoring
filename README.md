@@ -1,10 +1,11 @@
 # Smart-RAG-Assistant-with-Monitoring
 A conversational AI that answers questions from your documents first, then falls back to general knowledge when needed.
-\## What it does
+
+## What it does
 
 Think of it as your personal AI assistant that:
 
-\- \*\*Knows your stuff\*\* - Searches your documents first to answer questions
+- \*\*Knows your stuff\*\* - Searches your documents first to answer questions
 
 \- \*\*Stays helpful\*\* - Uses general AI knowledge when your docs don't have the answer  
 
